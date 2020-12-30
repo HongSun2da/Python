@@ -17,7 +17,7 @@ array2 = array1.reshape((2,2))
 
 print(array1)
 print(array2.base)
-print(array3)
+#print(array3)
 
 
 
