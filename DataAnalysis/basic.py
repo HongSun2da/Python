@@ -15,9 +15,10 @@ import numpy as np
 array1 = np.array([1,2,3,4])
 array2 = array1.reshape((2,2))
 
-print(array1)
+print(array1) # 추가 주석
 print(array2.base)
 #print(array3)
 
+# 소스 추가
 
 
