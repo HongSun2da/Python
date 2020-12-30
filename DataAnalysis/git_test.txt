@@ -2,3 +2,5 @@
 1. git_test.txt 신규 파일 생성함
 
 2. 내용 변경함 하고 commit 하기
+
+3. commit 백하기 왜 인식을 한대
