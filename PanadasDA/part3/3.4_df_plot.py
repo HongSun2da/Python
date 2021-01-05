@@ -17,4 +17,6 @@ df_ns.plot()
 tdf_ns = df_ns.T
 print(tdf_ns.head())
 print('\n')
-tdf_ns.plot()
+tdf_ns.plot().show()
+
+
